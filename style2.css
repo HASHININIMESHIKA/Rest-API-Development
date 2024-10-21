@@ -1,0 +1,51 @@
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffff; /* Light gray background color */
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #f0ebeb; /* White background color for the container */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle effect */
+}
+
+h3 {
+    text-align: center;
+    color: #007bff; /* Blue color for the heading */
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.table, th, td {
+    border: 1px solid #70b1f2;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #007bff;
+    color: #500707; /* White text for the table header */
+}
+
+.form-select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
